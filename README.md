@@ -105,3 +105,5 @@ python compile/export_mobilevlm_onnx.py
 ./complie.sh
 ```
 
+关于模型的demo和bm1688上面的运行实例，后续补充
+
