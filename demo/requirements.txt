@@ -1,0 +1,6 @@
+transformers==4.33.1
+torch==2.1.0
+sentencepiece
+pybind11
+Pillow
+# transformers==4.31.0
