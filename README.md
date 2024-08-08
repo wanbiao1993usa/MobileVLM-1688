@@ -143,7 +143,7 @@ cd $SDK/sophon-sail/sophon-sail/python_wheels/soc_BM1688/具体的版本/python�
 pip3 install ./*.wheel
 ```
 
-5. 晚上docker中环境
+5. 完善docker中环境
 ```shell
 ## 安装交叉编译链
 sudo apt-get install gcc-aarch64-linux-gnu g++-aarch64-linux-gnu
